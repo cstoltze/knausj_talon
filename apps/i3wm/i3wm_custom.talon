@@ -19,6 +19,9 @@ orwell me:
     edit.paste()
     key(enter)
 
+password:
+    key(super-p)
+
 #reveal:
 #    key(super-0)
 #    sleep(1000ms)
